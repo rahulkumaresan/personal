@@ -1,0 +1,85 @@
+.top{
+  background-color: #E4F9F5;
+  padding-top: 100px;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin:  0 auto 0;
+  width:10%;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+.curs{
+  width:600px;
+  margin: 50px auto 0;
+
+}
+hr{
+  height: 0;
+  width:8%;
+  border-width: 9px;
+  border-style: dotted none none;
+  border-color: #66BFBF;
+}
+h2{
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+color: #66BFBF;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.cloud{
+  position:absolute;
+  left: 300px;
+}
+.topcloud{
+  position:absolute;
+  right:300px;
+  top: 40px;
+}
+
+a{
+  color: #11999E;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px;
+  text-align: left;
+  line-height: 2;
+}
+.computer{
+  float: left;
+  margin-right: 30px;
+}
+.wdev{
+  float: right;
+  margin-left: 30px;
+}
+.bottom{
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  color: #EAF6F6;
+  margin-top: 60px;
+  height:100px;
+}
+.contact{
+  height: 45px;
+  width: 180px;
+  color: white;
+  font-size: 20px;
+
+  background-color: #11999E;
+  border-radius: 9px;
+  border-width: 0;
+}
+.contact:hover{
+  background-color:#66BFBF ;
+}
